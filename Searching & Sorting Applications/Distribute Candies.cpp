@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
+//binary search pattern
 
 bool ok(ll *arr, ll n, ll mid, ll tr)
 {
